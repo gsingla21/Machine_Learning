@@ -1,3 +1,5 @@
+DATASET: https://drive.google.com/drive/folders/11_1fqUb_sEIEOXcTibujkUI7G2az-UzI?usp=sharing
+
 Q1: Load a corpus (of .txt files) of your choice containing at least 10 text files using:
 1. File method
 2. PlaintextCorpusReader
