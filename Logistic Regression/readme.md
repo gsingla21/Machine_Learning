@@ -10,6 +10,8 @@ https://drive.google.com/drive/folders/1dOp5nABY9b-Tpp0k37d7a3Vig2Lpy2SC?usp=sha
 The dataset labels that whether or not the student will get admission on the basis of the two exam scores.
 The plot of the data against exam1 and exam2
 
+![image](https://user-images.githubusercontent.com/63445410/126443276-86c8fedb-670b-444f-80dc-bba3b5bdcf9b.png)
+
 As clear from the figure, a linear decision boundary does not fit well. So, fit a Logistic Regression Classifier with polynomial function of test1 and test2 scores upto degree 6
 using
 (i) Step-by-Step Logistic Regression (with no regularization; alpha=10; number of iterations=1000)
